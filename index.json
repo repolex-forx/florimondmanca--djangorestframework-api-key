@@ -1,0 +1,11 @@
+{
+  "org": "florimondmanca",
+  "repo": "djangorestframework-api-key",
+  "versions": [
+    {
+      "commit": "02f68e85d2e51f8a2049cb15ee4d5466d38cf1db",
+      "tag": "v3.1.0",
+      "parsed_at": "2026-10-20T22:05:07.454115+00:00"
+    }
+  ]
+}
