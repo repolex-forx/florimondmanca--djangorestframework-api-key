@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/florimondmanca/djangorestframework-api-key/commit/02f68e85d2e51f8a2049cb15ee4d5466d38cf1db",
       "git:hexsha": "02f68e85d2e51f8a2049cb15ee4d5466d38cf1db",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v3.1.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v3.1.0",
+      "repolex:parsedAt": "2026-10-20T22:05:07.453601+00:00"
     },
     {
       "@id": "https://repolex.ai/r/florimondmanca/djangorestframework-api-key/commit/1388d1cc92b4f8214f645c4e894bd2f350c71e68",
